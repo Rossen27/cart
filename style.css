@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(0, 0, 0,.2);
+}
+.header{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.header div{
+    width: 200px;
+    color: #888;
+    line-height: 30px;
+}
+.header .detail{
+    width: 50%;
+}
+.body{
+    margin-top: 20px;
+    height: 100px;
+    align-items: center;    
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+    /* margin-top: 10px; */
+    float: left;
+}
+.detail .name{
+    margin-left: 100px;
+    margin-top: 20px;
+} 
